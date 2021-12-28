@@ -26,8 +26,8 @@ To get full points, you need to provide clear and concise description.
 #!/bin/bash
 # Display "Hello" to the screen
 echo Hello
-# Display "Goodluck" to the screen
-echo Goodluck
+# Display "Good luck" to the screen
+echo Good luck
 ```
 
 ### References
